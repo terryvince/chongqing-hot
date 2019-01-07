@@ -1,5 +1,5 @@
-# webpack-build-template
-template of the front end，support vue，sass，eslint，babel，postcss，ejs，code splitting，sourceMap, mutiple page development
+# chongqing hot
+chongqing hot
 
 ## install and start
 ```command
