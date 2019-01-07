@@ -1,7 +1,7 @@
 {
-  "name": "webpack-build-tool",
+  "name": "chongqing-hot",
   "version": "1.0.0",
-  "description": "build the front template",
+  "description": "chongqing hot",
   "main": "main.js",
   "scripts": {
     "start": "npm run dev",

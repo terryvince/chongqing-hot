@@ -40,7 +40,8 @@ let base = {
         }
     },
     title: {
-        test: '测试页面'
+        test: '测试页面',
+        index: '重庆热首页'
     }
 };
 
